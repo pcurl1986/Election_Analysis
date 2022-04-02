@@ -42,6 +42,10 @@ Arapahoe County had 24,801 voters and 6.7% of votes from each county out of the 
 
 County with the Highest Voter Turnout: Denver County
 
-![Election_Results.PNG](/Resources/Election_Results.PNG)
+![Election_Results.PNG](/Resources/Election_Results.png)
+
+## Election-Audit Summary
+
+The python script utilized in this analysis can be modified to perform future analyses on project requiring the holding of a vote. For example, if you wanted to analysis a federal congressional election, all you need to do is change the counties to states. Another example, if you had a local initiative election, all you need to do is change candidates to in favor or against.
 
 
